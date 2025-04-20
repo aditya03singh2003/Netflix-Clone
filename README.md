@@ -1,6 +1,6 @@
 #  Netflix Clone 🎬
 ## 🌐 Live Demo
-🔗 **Live Website:** [https://portfolio-silk-six-38.vercel.app/](https://portfolio-silk-six-38.vercel.app/)
+🔗 **Live Website:** [https://portfolio-silk-six-38.vercel.app/](https://netflix-clone-goks.onrender.com)
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
