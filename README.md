@@ -1,4 +1,4 @@
-<h1 align="center">Netflix Clone 🎬</h1>
+# Netflix Clone 🎬
 ## 🌐 Live Demo
 🔗 **Live Website:** [https://portfolio-silk-six-38.vercel.app/](https://portfolio-silk-six-38.vercel.app/)
 
